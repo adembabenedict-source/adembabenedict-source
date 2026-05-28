@@ -4,7 +4,7 @@
 
 ### 🔥 Featured Projects
 **Fraud Detection Dashboard** `Python, Streamlit, scikit-learn`  
-[Live Demo](#) | [Repo](https://github.com/adembabenedict-source/fraud-detection-dashboard)  
+[Repo](https://github.com/adembabenedict-source/fraud-detection-dashboard)  
 Real-time credit card fraud detection with 98% accuracy and interactive metrics
 
 **Customer Churn Analysis** `Python, Pandas, XGBoost`  
