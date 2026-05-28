@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Adembab Benedict 👋
 
-<!--
-**adembabenedict-source/adembabenedict-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** | Python • Machine Learning • Data Visualization
 
-Here are some ideas to get you started:
+### 🔥 Featured Projects
+**Fraud Detection Dashboard** `Python, Streamlit, scikit-learn`  
+[Live Demo](#) | [Repo](https://github.com/adembabenedict-source/fraud-detection-dashboard)  
+Real-time credit card fraud detection with 98% accuracy and interactive metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Customer Churn Analysis** `Python, Pandas, XGBoost`  
+[Repo](https://github.com/adembabenedict-source/customer-churn-analysis)  
+Predicted at-risk telecom customers, 87% F1-score using feature engineering
+
+**House Price Prediction** `Python, scikit-learn, Flask`  
+[Repo](https://github.com/adembabenedict-source/house-price-prediction)  
+California housing regression model deployed as web app
+
+**Iris Flower Classification** `Python, scikit-learn`  
+[Repo](https://github.com/adembabenedict-source/iris-flower-classification-2)  
+Classic ML classifier with interactive UI for species prediction
+
+### 🛠️ Tech Stack
+Python | Pandas | NumPy | scikit-learn | Streamlit | Matplotlib | SQL
+
+### 📫 Connect with me
+[LinkedIn](#) | Email: yourname@email.com
