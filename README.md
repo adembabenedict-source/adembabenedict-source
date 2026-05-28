@@ -23,4 +23,4 @@ Classic ML classifier with interactive UI for species prediction
 Python | Pandas | NumPy | scikit-learn | Streamlit | Matplotlib | SQL
 
 ### 📫 Connect with me
-[LinkedIn](#) | Email: yourname@email.com
+[LinkedIn](https://www.linkedin.com/in/benedict-ademba-55a181412) | Email: adembabenedict@gmail.com
