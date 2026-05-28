@@ -1,4 +1,4 @@
-# Hi, I'm Adembab Benedict 👋
+# Hi, I'm Ademba Benedict 👋
 
 **Aspiring Data Analyst** | Python • Machine Learning • Data Visualization
 
